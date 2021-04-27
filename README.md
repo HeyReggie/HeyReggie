@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reggie</h1>
-<h3 align="center">A software engineer from Orange County, California</h3>
+<h3 align="center">A software engineer at 100devs</h3>
 
 <p align="left"> <a href="https://twitter.com/heyreggie" target="blank"><img src="https://img.shields.io/twitter/follow/heyreggie?logo=twitter&style=for-the-badge" alt="heyreggie" /></a> </p>
 
