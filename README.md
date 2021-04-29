@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reggie</h1>
+<h1 align="center">Hey 👋, I'm Reggie</h1>
 <h3 align="center">A software engineer at 100devs</h3>
 
 <p align="left"> <a href="https://twitter.com/heyreggie" target="blank"><img src="https://img.shields.io/twitter/follow/heyreggie?logo=twitter&style=for-the-badge" alt="heyreggie" /></a> </p>
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/heyreggie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="heyreggie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/reginaldtraywick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/reginaldtraywick" height="30" width="40" /></a>
+<a href="https://twitter.com/heyreggie" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="heyreggie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/reginaldtraywick" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/reginaldtraywick" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
