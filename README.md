@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/heyreggie" target="blank"><img src="https://img.shields.io/twitter/follow/heyreggie?logo=twitter&style=for-the-badge" alt="heyreggie" /></a> </p>
 
-- 🔭 I’m currently working on **a networking CRM.**
+- 🔭 I’m currently working on **a new portfolio site.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TailwindCSS and Eleventy**
 
 - 👯 I’m looking to collaborate on **projects that help new developers.**
 
