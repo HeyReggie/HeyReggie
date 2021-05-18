@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects that help new developers.**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Health and Fitness**
 
 - 📫 How to reach me **reggie@hey.com**
 
