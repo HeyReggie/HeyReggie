@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TailwindCSS and Eleventy.**
 
-- 👯 I’m looking to collaborate on **projects that help new developers.**
+- 👯 I’m looking to collaborate on **open source projects.**
 
 - 💬 Ask me about **health and fitness.**
 
