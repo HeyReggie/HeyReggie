@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a new portfolio site.**
 
-- 🌱 I’m currently learning **TailwindCSS.**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
