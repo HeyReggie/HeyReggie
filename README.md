@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **a new portfolio site.**
 
-- 🌱 I’m currently learning about **Web3.**
+- 🌱 I’m currently learning about **Next.js**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 💬 Ask me about **health and fitness.**
 
-- 📫 How to reach me **reggie@hey.com**
+- 📫 Reach me at **reggie@hey.com**
 
 - ⚡ Fun fact **I can spin a dinner plate on my finger.**
 
